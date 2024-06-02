@@ -1,0 +1,74 @@
+{
+    "cards": [
+      {
+        "id": "3135",
+        "jobTitle": "React Developer",
+        "salary": 50000,
+        "experienceLevel": "Middle",
+        "type": "Full-Time",
+        "location": "Remote",
+        "description": "we are looking for a React developer with 3 years of experience",
+        "company": "Google",
+        "applicationUrl": "https://www.example.com/",
+        "longDescription": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem"
+      },
+      {
+        "id": "bc38",
+        "jobTitle": ".... Developer",
+        "salary": 40000,
+        "experienceLevel": "Junior",
+        "type": "Full-Time",
+        "location": ".....",
+        "description": "...................",
+        "company": "....",
+        "applicationUrl": "https://www.example.com",
+        "longDescription": "............................................."
+      }
+    ],
+    "tasks": [
+        {
+          "id": "d4ab",
+          "title": "234324",
+          "status": "Done",
+          "priority": "High",
+          "category": "Personal",
+          "undefined": "Work"
+        },
+        {
+          "id": "0643",
+          "title": "23423432",
+          "status": "Todo",
+          "priority": "Low",
+          "category": "Personal"
+        },
+        {
+          "id": "bd03",
+          "title": "234324",
+          "status": "In Progress",
+          "priority": "High",
+          "category": "Work",
+          "undefined": "Done"
+        },
+        {
+          "id": "d263",
+          "title": "123123",
+          "status": "In Progress",
+          "priority": "High",
+          "category": "Work"
+        },
+        {
+          "id": "44e4",
+          "title": "32432",
+          "status": "In Progress",
+          "priority": "Medium",
+          "category": "Work"
+        },
+        {
+          "id": "39e6",
+          "title": "abcde",
+          "status": "Todo",
+          "priority": "High",
+          "category": "Work"
+        }
+      ]
+  }
