@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UmaSahni/project_data.git"
+    "url": "git+https://github.com/recepaydogan/project_data.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/UmaSahni/project_data/issues"
+    "url": "https://github.com/recepaydogan/project_data/issues"
   },
-  "homepage": "https://github.com/UmaSahni/project_data#readme",
+  "homepage": "",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
